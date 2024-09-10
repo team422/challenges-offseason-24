@@ -7,9 +7,9 @@ You must read the instructions for each challenge carefully. They will tell you 
 
 ## Instructions
 ### Setting Up the Repository
-1. Fork this repository to your own account. You can do this by clicking the "Fork" button in the top right corner, right next to "Watch" and "Star".
-2. Clone the repository to your computer. You can do this by clicking the green "Code" button and copying the URL. Then, open a terminal and run `git clone <URL>`.
-3. Open VSCode and open the folder you just cloned. You should see this README file.
+1. Fork this repository to your own account. You can do this by clicking the "Fork" button in the top right corner, right next to "Watch" and "Star". Make sure you un-check the box that says "Copy the main branch only" so that you can get all of the challenges properly.
+2. Clone the repository to your computer. You can do this by clicking the green "Code" button and copying the URL. Then, open a terminal and run `git clone <URL>` to copy it to the current folder you are in (switch to your coding folder before you do this).
+4. Open VSCode and open the folder you just cloned. You should see this README file.
 
 ### Beginning a Challenge
 1. Each challenge already has its own branch. To start a challenge, you must first switch to the branch for that challenge. You can do this by running `git checkout <branch-name>`. For example, to switch to the first challenge, you would run `git checkout challenge1`.
